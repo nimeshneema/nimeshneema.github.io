@@ -1,6 +1,6 @@
 ## Nimesh Neema's Homepage
 
-#### - <sub>_Passionate Software Developer. Loves well-designed products._</sub>
+#### - <sub>_Passionate software developer. Loves well-designed products._</sub>
 
 <br/>
 
