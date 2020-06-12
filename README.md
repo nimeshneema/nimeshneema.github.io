@@ -1,8 +1,6 @@
 ## Nimesh Neema's Homepage
 
-#### - <sub>_Passionate software developer. Loves well-designed products._</sub>
-
-<br/>
+#### - <sub>_I am a passionate software developer. I love well-designed products._</sub>
 
 <a href="https://stackexchange.com/users/360235/nimesh-neema?tab=accounts"><img src="https://stackexchange.com/users/flair/360235.png" width="208" height="58" alt="profile for Nimesh Neema on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Nimesh Neema on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
@@ -10,11 +8,33 @@
 
 <br/>
 
+#### [Send an email](mailto:nimeshneema@gmail.com)
 
-#### I contribute to the [Reflexive & Persistent System (artificial intelligence)](http://refpersys.org/) project as a software developer.
+#### <a href="tel:+919522618840">Call on Mobile</a>
 
 <br/>
 
+#### <a href="imessage://nimeshneema@icloud.com">Send an iMessage from iPhone or Mac</a>
+
+#### [Message on WhatsApp](https://wa.me/919522618840)
+
+#### <a href="sms:+919522618840">Send a SMS</a>
+
+<br/>
+
+#### <a href="facetime-audio:nimeshneema@icloud.com">Call on FaceTime Audio</a>
+
+#### <a href="skype:nimesh.neema?call">Call on Skype</a>
+
+<br/>
+
+#### [Join Zoom Meeting](https://us04web.zoom.us/j/2169541805)
+
+<br/>
+
+#### [Send payment on PayPal](http://paypal.me/NimeshNeema)
+
+<br/>
 
 #### [GitHub](https://github.com/nimeshneema)
 
@@ -23,34 +43,3 @@
 #### [LinkedIn](https://www.linkedin.com/in/nimeshneema/)
 
 <br/>
-
-
-#### <a href="facetime-audio:nimeshneema@icloud.com">FaceTime Audio</a>
-
-#### <a href="skype:nimesh.neema?call">Skype</a>
-
-<br/>
-
-
-#### <a href="imessage://nimeshneema@icloud.com">iMessage</a>
-
-#### [WhatsApp](https://wa.me/919522618840)
-
-#### <a href="sms:+919522618840">SMS</a>
-
-<br/>
-
-
-#### [Zoom Meeting](https://us04web.zoom.us/j/2169541805)
-
-<br/>
-
-
-#### [Email](mailto:nimeshneema@gmail.com)
-
-#### <a href="tel:+919522618840">Mobile</a>
-
-<br/>
-
-
-#### [PayPal](http://paypal.me/NimeshNeema)
