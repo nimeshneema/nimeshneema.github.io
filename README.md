@@ -42,4 +42,6 @@
 
 #### [LinkedIn](https://www.linkedin.com/in/nimeshneema/)
 
+#### [Medium](https://medium.com/@nimeshneema)
+
 <br/>
