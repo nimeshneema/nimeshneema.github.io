@@ -28,7 +28,7 @@
 
 <br/>
 
-#### [Join Zoom Meeting (Password: CM)](https://us04web.zoom.us/j/2169541805)
+#### [Join Zoom Meeting](https://us04web.zoom.us/j/2169541805?pwd=SlZtSHNsODNWNkkyMUhXTWRzOHQyQT09)
 
 <br/>
 
