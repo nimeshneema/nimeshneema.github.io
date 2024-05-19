@@ -12,4 +12,6 @@ Collection of quotes, to keep oneself inspired and motivated:
 
 -   Solid fundamentals combined with the skills to create useful tools make you an exceptional programmer.
 
+-   You only need to strive for absolute perfection. Success will follow automatically.
+
 ---
