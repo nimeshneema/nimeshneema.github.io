@@ -1,6 +1,6 @@
 # Guides
 
-A compilation of comprehensive and easy to understand guides on various programming tools, frameworks and programming languages.
+A compilation of comprehensive and easy to understand guides on various programming tools, technologies, frameworks and programming languages.
 
 The intent here is to write guide such that the reader "actually" ends up gaining the skills. Period.
 
@@ -8,13 +8,27 @@ There is no dearth of guides, tutorials and even official documentation for any 
 
 ---
 
-### Application Topics
+### Application Development Topics (Tools, Technologies, Frameworks & Programming Languages)
 
--   Guide to macOS Terminal.app.
+-   Guide to using macOS Terminal.app.
 
 -   Beginner's guide to working with the Command Line Interface (CLI).
 
 -   Mastering Regular Expressions.
+
+-   Hyper Text Transfer Protocol (HTTP)
+
+-   Computer Networking Concepts for Software Developers
+
+-   Reading man (manual pages) effectively
+
+-   Guide to Markdown
+
+-   Understanding Software Licenses
+
+-   Understanding and using SEDE - Stack Exchange Data Explorer
+
+-   Understanding text/character encoding
 
 -   Bash Shell - From complete beginner to expert.
 
@@ -23,6 +37,16 @@ There is no dearth of guides, tutorials and even official documentation for any 
 -   What is GraphQL?
 
 -   Understanding HTTP for application developers.
+
+-   Comprehensive guide to certificates, application signing, provisioning and noterization for Apple applications.
+
+-   Understanding Number Systems.
+
+-   Endianness: Big-Endian vs Little-Endian
+
+-   SQLite flat file database.
+
+-   NetLogo
 
 ---
 
@@ -39,5 +63,7 @@ There is no dearth of guides, tutorials and even official documentation for any 
 -   Automata theory.
 
 -   Software Engineering.
+
+-   Operating System Concepts.
 
 ---
