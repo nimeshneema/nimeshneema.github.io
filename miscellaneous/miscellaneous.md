@@ -1,5 +1,11 @@
 # Miscellaneous
 
+### Topics in Apple Development
+
+-   List of commands pre-installed with macOS
+
+-   https://developer.apple.com/documentation/technologies
+
 -   Frameworks:
 
     -   Foundation
@@ -34,6 +40,8 @@
 
     -   App Clips
 
+    -   Safari Extensions
+
 -   Developer Technologies:
 
     -   AutoLayout
@@ -49,5 +57,69 @@
     -   Format of Xcode project and workspace file
 
     -   SF Symbols
+
+-   Swift Programming Language
+
+    -   https://www.swift.org/
+
+---
+
+### Command Line Tools
+
+-   https://www.gnu.org/software/
+
+-   https://formulae.brew.sh/formula/
+
+---
+
+### Third-party tools
+
+-   https://formulae.brew.sh/cask/
+
+-   Pixelmator Pro
+
+-   iTerm2
+
+-   NetNewsWire
+
+---
+
+# Misc
+
+-   Difference between guides, tutorials, articles
+
+-   What is SSO, OAuth
+
+-   Article on Authentication on the Internet
+
+-   Fundamental concepts in programming languages
+
+    -   variables
+
+    -   functions
+
+    -   sequence, selection and iteration
+
+-   What is a programming paradigm?
+
+-   [HTML and Markup Validator](https://validator.w3.org/)
+
+---
+
+### Distributed Version Control
+
+-   GitLab
+
+-   BitBucket
+
+-   GitHub and offerings:
+
+    -   GitHub Actions
+
+    -   GitHub Codespaces
+
+    -   GitHub CI/CD
+
+    -   https://stackoverflow.com/questions/52969697/deploying-react-app-on-github-pages-front-and-backend-in-the-same-repository
 
 ---
