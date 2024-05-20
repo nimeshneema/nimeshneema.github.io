@@ -8,5 +8,13 @@ List of various project ideas:
 
 -   Code prettifier, minifier and linter for any programming language.
 
+-   Plugins for Reddit
+
+    -   Multiple login
+
+    -   Sort filter
+
+    -   Timer plugin to automatically refresh page
+
 ---
 
