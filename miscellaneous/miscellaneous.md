@@ -20,7 +20,21 @@
 
     -   ARKit
 
+    -   Core Data
+
+    -   SwiftData
+
 -   Article/guide ideas:
+
+    -   Understanding notifications system in Apple platforms.
+
+    -   Becoming rockstar iOS developer from 0-100.
+
+    -   There's no structured sequence of steps to follow to become a proficient iOS/Apple app dev. Work on that.
+
+    -   Write down a structured plan to become an awesome iOS developer.
+
+    -   Understanding Widgets in Apple ecosystem.
 
     -   Data storage and persistence in Cocoa apps
 
