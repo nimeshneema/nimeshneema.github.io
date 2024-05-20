@@ -16,7 +16,7 @@ List of technical writings explaining a technical concept or a tool:
 
 -   Understanding addresses on the Internet: URLs and email addresses.
 
--   Are URLs case sensitive?
+-   Are URLs/email addresses case sensitive?
 
 -   Does a trailing slash in a URL makes any difference?
 
