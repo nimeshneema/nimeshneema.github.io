@@ -1,5 +1,5 @@
 # Readme
 
-Website respository for [Nimesh Neema's Home Page](https://nimeshneema.com).
+Website respository for [Nimesh Neema's Homepage](https://nimeshneema.com).
 
-Understanding nitty-gritties of software development technologies and tooling.
+Understanding the nitty-gritties of software development technologies and tooling.
